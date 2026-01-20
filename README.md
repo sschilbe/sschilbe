@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hey, I'm Seth 👋
 
-<!--
-**sschilbe/sschilbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building something exciting on [Bittensor](https://bittensor.com) 🤐
 
-Here are some ideas to get you started:
+Previously Senior Software Engineer at **AWS**, shipping Cloud Map & ECS features to customers at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔭 Currently
+- Building decentralized AI agents that shop on your behalf
+- Deep in the Bittensor ecosystem
+
+#### 🛠 Tech I Work With
+`Python` `TypeScript` `Bittensor` `AWS` `Distributed Systems` `LLMs`
+
+#### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/sethschilbe)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](
+https://twitter.com/SchilbeSeth)
+
+---
+
+<sub>Previously shipped wearable firmware, mobile apps, and cloud infrastructure. Now betting on
+autonomous agents.</sub>
