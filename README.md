@@ -1,4 +1,4 @@
-### Hey, I'm Seth 👋
+### Hey, 👋
 
 Previously Senior Software Engineer at **AWS**, shipping Cloud Map & ECS features to customers at scale.
 
